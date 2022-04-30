@@ -47,3 +47,5 @@ The following images splits this information in paid and unpaid reviews.
 ***Comment:*** *UnPaid Reviews*
 
 ## Summary
+
+Looking at the results we can see that, in percentage, there are more 5-star votes in the paid reviews than in the unpaid reviews. There is a difference of 12.6% points. Although this may represent a trend towards more positive reviews, we can not jump into conclusions yet. In order to gather more insight we can do this same analysis but for 4-star, 3-star,2-star and 1-star reviews. With this we can see more clearly if there is any preference, or maybe they are more drastic and paid reviews choose only 5s or 1s.
